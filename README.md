@@ -1,4 +1,4 @@
-# ebook-ux # ux # ia
+# Códigos da Experiência: Dominando a UX
 PEDI PARA A I.A CRIAR UM EBOOK E ESSE FOI O RESULTADO
 
 Já pensou se utilizássemos as ferramentas de IA para acelerar nossas ideias pré-formatadas, que nunca tivemos tempode executar por falta de tempo?
